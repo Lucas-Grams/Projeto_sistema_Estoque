@@ -1,0 +1,7 @@
+O arquivo sql para criação da base de dados e das tabelas utilizadas estao dentro da pasta"sql".
+
+Já existe um usuário criado no sistema.
+login: teste
+senha: teste123
+
+Há também um item já adicionado.
